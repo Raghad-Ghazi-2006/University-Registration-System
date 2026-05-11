@@ -30,9 +30,6 @@ A Java OOP project that simulates a university registration system for managing 
  
 ## Technologies
 - Java
-- OOP
-
- ## Author
- - Rahad Ghazi Abusamra    
 ## Author
-Your Name
+Raghad Ghazi Abusamra
+ 
